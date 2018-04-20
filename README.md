@@ -1,6 +1,7 @@
 ## DESCRIPTION
-Docker container with Jenkins CI and few DSL jobs examples.
+Docker container with Jenkins CI
 
 ### Related links
+FEATURE
 - Jenkins Job DSL API:  https://jenkinsci.github.io/job-dsl-plugin/
     
