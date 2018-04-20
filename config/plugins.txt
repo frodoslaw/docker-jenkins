@@ -1,0 +1,15 @@
+credentials:latest
+git:latest
+git-client:latest
+github-api:latest
+github:latest
+groovy:latest
+icon-shim:latest
+jobConfigHistory:latest
+job-dsl:latest
+plain-credentials:latest
+plugin-usage-plugin:latest
+rebuild:latest
+scm-api:latest
+ssh-credentials:latest
+token-macro:latest
